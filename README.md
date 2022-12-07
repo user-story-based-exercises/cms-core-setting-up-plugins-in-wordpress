@@ -9,4 +9,4 @@
 - The plugin is used on at least one page on the website (e.g.: the imprint)
 
 #### Links
-SkillSet: https://my.skilldisplay.eu/en/skill/1671/510
+SkillSet: https://my.skilldisplay.eu/en/skillset/510
